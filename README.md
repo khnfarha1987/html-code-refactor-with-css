@@ -27,7 +27,7 @@ In this Challenge, a marketing agency has hired me to refactor an existing site 
       * I made more descriptive alt attribute to explain more about images.
 
   *  Heading attributes fall in sequential order.
-     I checked all heading tag they should be in sequential order.
+      * I checked all heading tag they should be in sequential order.
 
   *  Title elements contain a concise, descriptive title.
       * I made my project title unique, descriptive and concise.       
